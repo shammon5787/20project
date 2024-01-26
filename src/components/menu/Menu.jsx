@@ -1,0 +1,87 @@
+const Menu = [
+    {
+        id: 1,
+        title: "fhffgf",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        category :"Fruits",
+    },
+    {
+        id: 2,
+        title: "Mens Casual Premium Slim Fit T-Shirts ",
+        price: 11111.3,
+        image: "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        category :"Laptops",
+    },
+    {
+        id: 3,
+        title: "Mens Cotton Jacket",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        category :"Shirts",
+    },
+    { 
+        id: 4, 
+        title: "Mens Casual Slim Fit",
+        price: 11111.99, 
+        image: "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", 
+        category :"Drinks",
+    },
+    {
+        id: 1,
+        title: "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        category :"Fruits",
+    },
+    {
+        id: 2,
+        title: "Mens Casual Premium Slim Fit T-Shirts ",
+        price: 11111.3,
+        image: "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        category :"Laptops",
+    },
+    {
+        id: 3,
+        title: "Mens Cotton Jacket",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        category :"Shirts",
+    },
+    { 
+        id: 4, 
+        title: "Mens Casual Slim Fit",
+        price: 11111.99, 
+        image: "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", 
+        category :"Drinks",
+    },
+    {
+        id: 3,
+        title: "Mens Cotton Jacket",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        category :"Shirts",
+    },
+    { 
+        id: 4, 
+        title: "Mens Casual Slim Fit",
+        price: 11111.99, 
+        image: "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", 
+        category :"Drinks",
+    },
+    {
+        id: 3,
+        title: "Mens Cotton Jacket",
+        price: 11111,
+        image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        category :"Shirts",
+    },
+    { 
+        id: 4, 
+        title: "Mens Casual Slim Fit",
+        price: 11111.99, 
+        image: "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg", 
+        category :"Drinks",
+    }
+]
+export default Menu

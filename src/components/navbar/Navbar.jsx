@@ -12,7 +12,7 @@ const Navbar = () => {
       <div>
         <Link className='links' to= "/">Home</Link>
         <Link className='links' to= "/cart">Cart</Link>
-        <Link className='links' to= "about">About</Link>
+        <Link className='links' to= "images">Images</Link>
       </div>
       <h4>Total : {select.length}</h4>
     </div>

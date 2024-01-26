@@ -6,6 +6,7 @@ import Cart from './components/page/Cart'
 import { Provider } from 'react-redux'
 import store from './components/store/store'
 import Navbar from './components/navbar/Navbar'
+import ImageCategory from './components/menu/ImageCategory'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/cart' element={<Cart />} />
+            <Route path='/images' element={<ImageCategory />} />
           </Routes>
         </BrowserRouter>
       </Provider>
